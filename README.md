@@ -1,7 +1,3 @@
----
-title: Blogging Like a Hacker
----
-
 # The Slate theme
 
 [![Build Status](https://travis-ci.org/pages-themes/slate.svg?branch=master)](https://travis-ci.org/pages-themes/slate) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-slate.svg)](https://badge.fury.io/rb/jekyll-theme-slate)
