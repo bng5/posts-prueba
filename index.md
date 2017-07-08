@@ -1,9 +1,6 @@
 ---
+title: This is my title
 layout: post
 ---
 
-```
-- - -
-title: Blogging Like a Hacker
-- - -
-```
+Here is my page.
